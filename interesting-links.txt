@@ -4,3 +4,12 @@ A complete walkthrough on how to debug a segfault triggered by a Python script
 that invokes ncurses.
 
 Very nice gdb demonstration.
+
+--------------------------------------------------------------------------------
+
+* https://github.com/Dhghomon/easy_rust
+  https://youtu.be/-lYeJeQ11OI
+
+Very comprehensive Rust tutorial in ebook-form (the github link) and a video
+course of 186 videos in total (slightly over 23 hours).
+
