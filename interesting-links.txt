@@ -1,0 +1,6 @@
+* http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html
+
+A complete walkthrough on how to debug a segfault triggered by a Python script
+that invokes ncurses.
+
+Very nice gdb demonstration.
